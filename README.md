@@ -14,15 +14,11 @@
 
 
 
-- 🤔 &nbsp; Actively learning new technologies and stacks that would make me a better full-stack developer, embedded engineer and a data scientist.
+- 🧠 &nbsp; I am continually acquiring new skills and knowledge in technologies and stacks to enhance my abilities as a full-stack developer, embedded engineer, and data scientist
 
+- 🪴 &nbsp; Learning more about Deep Learning and Data Engineering.
 
-- 💼 &nbsp; Currently working as a freelance full-stack developer.
-
-
-- 🌱 &nbsp; Learning more about Business analysis, Deep Learning and Data Engineering.
-
-- ✍️ &nbsp; I'm a Full stack developer, Data Scientist and Machine Learning Engineer.
+-  ☘️ &nbsp; I'm an Aspiring Full stack developer, Data Scientist and Machine Learning Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
